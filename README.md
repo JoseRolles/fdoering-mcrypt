@@ -1,6 +1,6 @@
 # fdoering-mcrypt
 
-Migrated mcrypt.js from F. Doering jsmcrypt Version 0.1 ([https://code.google.com/archive/p/js-mcrypt/](https://code.google.com/archive/p/js-mcrypt/)).
+NodeJS module migrated mcrypt.js from F. Doering jsmcrypt Version 0.1 ([https://code.google.com/archive/p/js-mcrypt/](https://code.google.com/archive/p/js-mcrypt/)).
 
 *jsmcrypt version 0.1  -  Copyright 2012 F. Doering*
 
@@ -11,7 +11,7 @@ npm install fdoering-mcrypt
 ```
 
 
-## Encrypt Example
+## NodeJS Encrypt Example
 
 ```javascript
 // Require
@@ -32,7 +32,7 @@ var encrypted_binary = mcrypt.Encrypt(message, iv, key, "rijndael-256", "cbc");
 var encrypted_base64 = Buffer.from(encrypted_binary, "binary").toString("base64");
 ```
 
-## Decrypt Example
+## NodeJS Decrypt Example
 
 ```javascript
 // Convert Base64 back to Binary
