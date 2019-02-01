@@ -1,0 +1,28 @@
+{
+  "name": "fdoering-mcrypt",
+  "version": "1.0.2",
+  "description": "Migrated mcrypt.js from F. Doering jsmcrypt Version 0.1 (https://code.google.com/archive/p/js-mcrypt/)",
+  "main": "mcrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "F. Doering",
+  "license": "ISC",
+  "keywords": [
+    "mcrypt",
+    "jsmcrypt",
+    "rijandael",
+    "serpent",
+    "encrypt",
+    "decrypt",
+    "php-mcrypt"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseRolles/fdoering-mcrypt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoseRolles/fdoering-mcrypt/issues"
+  },
+  "homepage": "https://github.com/JoseRolles/fdoering-mcrypt#readme"
+}
