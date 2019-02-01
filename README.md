@@ -1,7 +1,15 @@
 # fdoering-mcrypt
+
 Migrated mcrypt.js from F. Doering jsmcrypt Version 0.1 ([https://code.google.com/archive/p/js-mcrypt/](https://code.google.com/archive/p/js-mcrypt/)).
 
 *jsmcrypt version 0.1  -  Copyright 2012 F. Doering*
+
+## Install with npm
+
+```
+npm install fdoering-mcrypt
+```
+
 
 ## Encrypt Example
 
