@@ -1,6 +1,6 @@
 # fdoering-mcrypt
 
-NodeJS module migrated mcrypt.js from F. Doering jsmcrypt Version 0.1 ([https://code.google.com/archive/p/js-mcrypt/](https://code.google.com/archive/p/js-mcrypt/)).
+NodeJS module - migrated mcrypt.js from F. Doering jsmcrypt Version 0.1 ([https://code.google.com/archive/p/js-mcrypt/](https://code.google.com/archive/p/js-mcrypt/)).
 
 *jsmcrypt version 0.1  -  Copyright 2012 F. Doering*
 
